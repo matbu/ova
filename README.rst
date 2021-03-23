@@ -1,6 +1,6 @@
-================
-validations-libs
-================
+=====================================
+O V A - Open Validations over Ansible
+=====================================
 
 .. image:: https://governance.openstack.org/tc/badges/validations-libs.svg
     :target: https://governance.openstack.org/tc/reference/tags/index.html
